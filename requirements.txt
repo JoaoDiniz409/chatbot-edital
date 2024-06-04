@@ -1,5 +1,18 @@
+# para o chatbot
 langchain
 langchain-community
 PyPDF2
 streamlit
 faiss-cpu
+PyMuPDF
+
+# para o evaluate
+nltk
+torch
+pandas
+cython
+evaluate
+bert-score
+rouge-score
+transformers
+scikit-learn
